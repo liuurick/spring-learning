@@ -7,18 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="700e4875-44e5-48e2-80fb-1222d6bd6309" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../01-spring-framework-5.2.9.RELEASE/spring-demo/src/main/java/com/liuurick/service/WelcomeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01-spring-framework-5.2.9.RELEASE/spring-demo/src/main/java/com/liuurick/service/impl/WelcomeServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../01-spring-framework-5.2.9.RELEASE/spring-demo/src/main/resources/spring-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02-simpleframework.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/liuurick/servlet/HelloServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/jsp/hello.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-spring-framework-5.2.9.RELEASE/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../01-spring-framework-5.2.9.RELEASE/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-spring-framework-5.2.9.RELEASE/spring-demo/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../01-spring-framework-5.2.9.RELEASE/spring-demo/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01-spring-framework-5.2.9.RELEASE/spring-demo/src/main/java/com/liuurick/Entrance.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01-spring-framework-5.2.9.RELEASE/spring-demo/src/main/java/com/liuurick/Entrance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/02-simpleframework.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +29,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -50,15 +47,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2826923" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -76,7 +75,9 @@
       <option name="presentableId" value="Default" />
       <updated>1603180314724</updated>
       <workItem from="1603180317883" duration="2248000" />
-      <workItem from="1603182660816" duration="291000" />
+      <workItem from="1603182660816" duration="889000" />
+      <workItem from="1603185782622" duration="267000" />
+      <workItem from="1603186077342" duration="146000" />
     </task>
     <servers />
   </component>
@@ -96,10 +97,14 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="262" y="19" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.680@0.0.1280.680" timestamp="1603180329941" />
-    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1603182140318">
+    <state x="423" y="235" width="697" height="209" key="DetectedRootsChooserDialog" timestamp="1603186140338">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603182140318" />
+    <state x="423" y="235" width="697" height="209" key="DetectedRootsChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1603186140338" />
+    <state x="421" y="95" key="FileChooserDialogImpl" timestamp="1603186135322">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="95" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1603186135322" />
     <state width="951" height="127" key="GridCell.Tab.0.bottom" timestamp="1603182569769">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -116,5 +121,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state width="951" height="127" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1603182569769" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1603186184592">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1603186184592" />
   </component>
 </project>
